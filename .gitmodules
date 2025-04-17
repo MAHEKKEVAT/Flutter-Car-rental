@@ -1,0 +1,3 @@
+[submodule "gear_go"]
+	path = gear_go
+	url = https://github.com/your-username/gear_go.git
